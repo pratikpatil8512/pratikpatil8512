@@ -12,18 +12,27 @@
 
 ---
 
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
 ## 🔧 Tech Stack
 
 ![My Skills](https://skillicons.dev/icons?i=cpp,java,js,react,nodejs,html,css,tailwind,git,github,java)
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F78A1A&width=435&lines=Hey+there!+I'm+Pratik+Patil;Welcome+to+my+GitHub+profile" alt="Typing SVG" />
+</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+</p>
+
+---
 
 ![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratikpatil8512&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikpatil8512&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pratikpatil8512&theme=radical)
+
+---
+
 
 ---
 
