@@ -10,6 +10,8 @@
 - ✍️ Building **personal projects** to improve problem-solving and design skills
 - 🤝 Open to collaboration on innovative projects and hackathons
 
+![Profile Views](https://komarev.com/ghpvc/?username=pratikpatil8512&label=Profile%20views&color=0e75b6&style=flat)
+
 ---
 
 ## 🔧 Tech Stack
