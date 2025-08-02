@@ -1,16 +1,37 @@
-## Hi there 👋
+#👋 Hello, I'm Pratik Patil
 
-<!--
-**pratikpatil8512/pratikpatil8512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full Stack Developer | 💻 C++ & Java Enthusiast | 🌱 Lifelong Learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🎓 Currently exploring **React.js**, **DSA**, and **Java-based programs**
+- 💡 Always curious about **Web Development**, **ML**, and real-world project building
+- ✍️ Building **personal projects** to improve problem-solving and design skills
+- 🤝 Open to collaboration on innovative projects and hackathons
+
+---
+
+## 🔧 Tech Stack
+
+![My Skills](https://skillicons.dev/icons?i=cpp,java,js,react,nodejs,html,css,tailwind,git,github,java)
+
+---
+
+## 📊 GitHub Stats
+
+![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratikpatil8512&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikpatil8512&layout=compact&theme=radical)
+
+---
+
+## 📫 Let's Connect
+
+- 📩 Gmail: **pratikpatil292004@gmail.com**
+- 💼 [LinkedIn](www.linkedin.com/in/pratikpatil29)
+
+---
+
+> “Consistency is more important than perfection.”
+
+
