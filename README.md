@@ -39,7 +39,6 @@
 
 - 📩 Gmail: **pratikpatil292004@gmail.com**
 - 💼 [LinkedIn](www.linkedin.com/in/pratikpatil29)
-![Profile Views](https://komarev.com/ghpvc/?username=pratikpatil8512&label=Profile%20views&color=0e75b6&style=flat)
 ---
 
 > “🧠 Collaborate. Code. Create.”
