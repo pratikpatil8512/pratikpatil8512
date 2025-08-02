@@ -12,6 +12,8 @@
 
 ---
 
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 ## 🔧 Tech Stack
 
 ![My Skills](https://skillicons.dev/icons?i=cpp,java,js,react,nodejs,html,css,tailwind,git,github,java)
