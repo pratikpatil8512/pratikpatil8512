@@ -29,7 +29,6 @@
 ---
 
 ![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratikpatil8512&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pratikpatil8512&theme=radical)
 
 ---
 
